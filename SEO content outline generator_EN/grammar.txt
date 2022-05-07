@@ -1,0 +1,6 @@
+You can change the case or number when using keys, if this is required by the context of the sentence, or for the sake of readability of the text.
+You can insert the necessary words into key phrases for the sake of readability of the text.
+Use abbreviations in capital letters only.
+
+Service for checking for plagiarism:
+https://www.duplichecker.com/
